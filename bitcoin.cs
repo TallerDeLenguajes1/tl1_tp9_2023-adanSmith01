@@ -1,6 +1,5 @@
 namespace Bitcoin;
 using System.Text.Json.Serialization;
-
 // Root myDeserializedClass = JsonSerializer.Deserialize<Root>(myJsonResponse);
     public class Bpi
     {

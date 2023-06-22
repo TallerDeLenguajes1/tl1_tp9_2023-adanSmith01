@@ -12,6 +12,7 @@ internal class Program
         Console.WriteLine($"En euros: {bitcoin.bpi.EUR.rate}");
         Console.WriteLine($"En libras esterlinas: {bitcoin.bpi.GBP.rate}");
 
+
         Console.WriteLine("\n=========CARACTERÍSTICAS DEL DOLAR=========\n");
         Console.WriteLine($"Código: {bitcoin.bpi.USD.code}");
         Console.WriteLine($"Símbolo: {bitcoin.bpi.USD.symbol}");
